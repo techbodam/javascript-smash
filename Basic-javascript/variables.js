@@ -1,3 +1,8 @@
+// In JavaScript, variables are used to store data that you can use and manipulate in your program.
+
+
+
+
 const userId = 215010
 let userName = "Aftab Khalil"
 var userAdd = "India"
